@@ -3,9 +3,7 @@ Quantum Algorithms
 This repository contains implementations of foundational quantum algorithms using Qiskit.
 
 
-1. Grover's Algorithm
-
-Steps:
+Grover's Algorithm:
 
 Initialize qubits in uniform superposition using Hadamard gates.
 
@@ -19,9 +17,7 @@ Measure the qubits to obtain the marked element with high probability.
 
 
 
-2. Quantum Fourier Transform (QFT)
-
-Steps:
+Quantum Fourier Transform (QFT):
 
 Apply a Hadamard gate to the first qubit.
 
@@ -35,9 +31,7 @@ The result is the quantum Fourier transform of the input state.
 
 
 
-3. Bernstein-Vazirani Algorithm
-
-Steps:
+Bernstein-Vazirani Algorithm:
 
 Initialize all qubits to |0⟩ and one ancilla to |1⟩.
 
