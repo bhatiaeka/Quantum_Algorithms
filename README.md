@@ -15,7 +15,7 @@ Repeat steps 2–3 approximately √N times.
 
 Measure the qubits to obtain the marked element with high probability.
 
-
+________________________________________________________________________________________
 
 Quantum Fourier Transform (QFT):
 
@@ -29,7 +29,7 @@ Swap qubits to reverse their order.
 
 The result is the quantum Fourier transform of the input state.
 
-
+________________________________________________________________________________________
 
 Bernstein-Vazirani Algorithm:
 
