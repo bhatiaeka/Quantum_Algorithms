@@ -1,7 +1,7 @@
 Quantum Algorithms
 
 This repository contains implementations of foundational quantum algorithms using Qiskit.
-
+________________________________________________________________________________________
 
 Grover's Algorithm:
 
