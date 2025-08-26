@@ -2,6 +2,7 @@ Quantum Algorithms
 
 This repository contains implementations of foundational quantum algorithms using Qiskit.
 
+
 1. Grover's Algorithm
 
 Steps:
@@ -17,6 +18,7 @@ Repeat steps 2–3 approximately √N times.
 Measure the qubits to obtain the marked element with high probability.
 
 
+
 2. Quantum Fourier Transform (QFT)
 
 Steps:
@@ -30,6 +32,7 @@ Repeat recursively for remaining qubits.
 Swap qubits to reverse their order.
 
 The result is the quantum Fourier transform of the input state.
+
 
 
 3. Bernstein-Vazirani Algorithm
